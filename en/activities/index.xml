@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities on Gîte des Filons</title>
+    <link>https://cdhenin.github.io/demo-filons/en/activities/</link>
+    <description>Recent content in Activities on Gîte des Filons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 26 Jan 2023 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="https://cdhenin.github.io/demo-filons/en/activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>En hiver</title>
+      <link>https://cdhenin.github.io/demo-filons/en/activities/winter/</link>
+      <pubDate>Thu, 26 Jan 2023 09:29:16 +1000</pubDate>
+      
+      <guid>https://cdhenin.github.io/demo-filons/en/activities/winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>En été</title>
+      <link>https://cdhenin.github.io/demo-filons/en/activities/summer/</link>
+      <pubDate>Thu, 26 Jan 2023 09:29:16 +1000</pubDate>
+      
+      <guid>https://cdhenin.github.io/demo-filons/en/activities/summer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
