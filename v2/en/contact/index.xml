@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on Gîte des Filons</title>
+    <link>https://cdhenin.github.io/demo-filons/v2/en/contact/</link>
+    <description>Recent content in Contact on Gîte des Filons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 26 Jan 2023 09:29:16 +1000</lastBuildDate><atom:link href="https://cdhenin.github.io/demo-filons/v2/en/contact/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

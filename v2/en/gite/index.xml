@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le gîte on Gîte des Filons</title>
+    <link>https://cdhenin.github.io/demo-filons/v2/en/gite/</link>
+    <description>Recent content in Le gîte on Gîte des Filons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 26 Jan 2023 11:52:18 +0700</lastBuildDate><atom:link href="https://cdhenin.github.io/demo-filons/v2/en/gite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Lieu</title>
+      <link>https://cdhenin.github.io/demo-filons/v2/en/gite/lieu/</link>
+      <pubDate>Thu, 26 Jan 2023 12:33:46 +1000</pubDate>
+      
+      <guid>https://cdhenin.github.io/demo-filons/v2/en/gite/lieu/</guid>
+      <description>C&amp;rsquo;est un petit coin de paradis à seulement 10 km de Bourg d’Oisans et en limite du Parc National des Écrins. Le village est perché à 1300 mètres d’altitude, exposé au sud et il y fait bon vivre. Le gîte est un ancien presbytère restauré en 1987, un vrai coup de cœur. Il est situé a coté de l’église sur un site d’exception planté de 5 tilleuls tricentenaires sur l’unique plat existant, avec une vue à 360 degré, sur le massif du Taillefer, le col d’Ornon et les Grandes Rousses.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;agencement</title>
+      <link>https://cdhenin.github.io/demo-filons/v2/en/gite/caracteristiques/</link>
+      <pubDate>Thu, 26 Jan 2023 12:33:46 +1000</pubDate>
+      
+      <guid>https://cdhenin.github.io/demo-filons/v2/en/gite/caracteristiques/</guid>
+      <description>De plein pied&amp;hellip; &amp;hellip; une immense pièce a vivre de 65 m2 avec une cuisine ouverte et fonctionnelle avec l’équipement nécessaire pour cuisiner de 2 à 15 personnes (3 appareils à raclette, 3 appareils à fondue). Un coin salon avec une cheminée et un grand poêle à bois pour chauffer le gîte et faire sécher le matériel ou les vêtements. Une entrée hivernale (local technique) pour poser son matériel de montagne, ses skis ou son vélo.</description>
+    </item>
+    
+    <item>
+      <title>La restauration</title>
+      <link>https://cdhenin.github.io/demo-filons/v2/en/gite/restauration/</link>
+      <pubDate>Thu, 26 Jan 2023 12:33:46 +1000</pubDate>
+      
+      <guid>https://cdhenin.github.io/demo-filons/v2/en/gite/restauration/</guid>
+      <description> Le gîte est accessible en gestion libre et une cuisine est à disposition. Possibilité de demi pension, de repas de soir uniquement, de pique-nique de Juin à septembre sur demande chez notre voisin Mr Theveniau. Il vous proposera des plats de terroir avec les produits de son jardin et de ses récoltes. </description>
+    </item>
+    
+    <item>
+      <title>Les services</title>
+      <link>https://cdhenin.github.io/demo-filons/v2/en/gite/services/</link>
+      <pubDate>Thu, 26 Jan 2023 12:33:46 +1000</pubDate>
+      
+      <guid>https://cdhenin.github.io/demo-filons/v2/en/gite/services/</guid>
+      <description>Dépôt d’épicerie du magasin Écrin Bio de Bourg d’Oisans. Pour les randonneurs de juin à septembre (pâtes, riz, biscottes, biscuits, chocolat, tartinades). Vous pouvez également commander directement auprès du magasin et être livré au gîte (04 76 79 90 50). La ferme du champ perché&amp;hellip; &amp;hellip; pour ses biscuits salés et sucrés aux herbes sauvages et son genépi. La Bergerie de la lignarre&amp;hellip; &amp;hellip; pour ses fromages et sa viande d’agneau.</description>
+    </item>
+    
+  </channel>
+</rss>
